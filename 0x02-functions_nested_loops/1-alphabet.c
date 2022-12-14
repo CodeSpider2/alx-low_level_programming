@@ -1,12 +1,6 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
-
-/**
  * print_alphabet - function to print abc
  *
  * Return: 0
