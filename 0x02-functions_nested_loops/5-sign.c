@@ -2,7 +2,7 @@
 
 /**
  * print_sign  - function to check whether a number is positive or negative
- * @c: is the int that will use for the argument of the function
+ * @n: is the int that will use for the argument of the function
  * Return: 0
  */
 int print_sign(int n)
