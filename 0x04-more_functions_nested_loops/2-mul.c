@@ -7,9 +7,10 @@
  * Return: multiple
  */
 
-int mul(int a,int b)
+int mul(int a, int b)
 {
 	int multiple;
+
 	multiple = a * b;
 	return (multiple);
 }
